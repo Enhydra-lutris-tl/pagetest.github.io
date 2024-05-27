@@ -1,0 +1,17 @@
+{
+    "name": "PWAmp music player",
+    "lang": "en-US",
+    "start_url": "/",
+    "short_name": "PWAmp",
+    "description": "A skinnable music player app to play your favorite mp3 files",
+    "display": "browser",
+    "icons": [
+      {
+        "src": "./favicon-256.png",
+        "sizes": "256x256"
+      }
+    ],
+    "edge_side_panel": {
+      "preferred_width": 480
+    }
+  }
